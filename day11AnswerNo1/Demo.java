@@ -3,13 +3,13 @@ package com.day11AnswerNo1;
 public class Demo{
 
 	public static void main(String[] args) {
-		ZImpl zImpl = new ZImpl();
-		zImpl.fun1x();
-		zImpl.fun1y();
-		zImpl.fun1z();
-		zImpl.fun2x();
-		zImpl.fun2y();
-		zImpl.fun2x();
+		Z z = new ZImpl();
+		z.fun1x();
+		z.fun1y();
+		z.fun1z();
+		z.fun2x();
+		z.fun2y();
+		z.fun2x();
 	
 	}
 
